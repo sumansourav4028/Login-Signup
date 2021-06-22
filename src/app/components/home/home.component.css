@@ -1,0 +1,32 @@
+.container{
+    text-align: center;
+    margin-top: 10%;
+    background-color: #f3ebeb;
+    margin-left: 35%;
+    margin-right: 35%;
+    height: 30%;
+    padding-top: 30px;
+    border-radius: 4px;
+    
+    
+}
+h1{
+    margin-left: 30px;
+    margin-bottom: 60px;
+}
+#login{
+    margin-left: 10px;
+}
+#signup{
+    margin-left: 40px;
+}
+#loginlink{
+    margin-right: 70px;
+    margin-top: 30px;
+}
+#signuplink{
+    
+    margin-left: 100px;
+    margin-top: 30px;
+  
+}
